@@ -1,0 +1,22 @@
+{
+  "name": "movietrailer",
+  "version": "1.0.0",
+  "description": "电影预告片列表",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaofeiZi/MovieTrailer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShaofeiZi/MovieTrailer/issues"
+  },
+  "homepage": "https://github.com/ShaofeiZi/MovieTrailer#readme",
+  "dependencies": {
+    "koa": "^2.5.2"
+  }
+}
