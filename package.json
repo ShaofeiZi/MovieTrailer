@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ShaofeiZi/MovieTrailer#readme",
   "dependencies": {
-    "koa": "^2.5.2"
+    "koa": "^2.5.2",
+    "puppeteer-cn": "^0.1.7"
   }
 }
